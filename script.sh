@@ -21,9 +21,9 @@ echo "1. Create user"
 echo "2. Create group"
 echo "3. Create file"
 echo "4. Create folder"
-echo "4. Create webserver"
+echo "5. Create webserver"
 read option
 sleep 3
-echo "you have selected option $option"
+echo "You have selected option $option"
 echo "I will go ahead and make your wishes come through"
 #write a case state the perform any action the user picks
